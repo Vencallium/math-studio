@@ -6,6 +6,7 @@ Interactive calculus learning and practice for Unit 1 (limits and continuity) an
 
 - **1,720 original practice questions:** 1,000 in Unit 1 and 720 in Unit 2.
 - 43 modules, 142 graph questions, and 99 table questions.
+- Select multiple PDF lessons for practice or quizzes in either unit. Selections are remembered per unit; question counts, difficulty, topic, and history filters combine with the chosen lessons. Sessions mix evenly across available lessons.
 - Lesson filters 2.1–2.7, guided solutions, quizzes, saved questions, and targeted practice across 197 question types.
 - Light/dark themes, responsive layouts, and browser-local progress.
 
